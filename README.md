@@ -20,3 +20,9 @@ The object detection is performed on the following image:
 The annotated image with bounding boxes drawn around detected objects will be saved to `results/result.png`.
 
 ![Sample Image](results/result.png)
+
+###
+
+Referance 
+
+https://docs.djl.ai/engines/pytorch/index.html
