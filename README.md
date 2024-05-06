@@ -18,3 +18,5 @@ The object detection is performed on the following image:
 ## Results
 
 The annotated image with bounding boxes drawn around detected objects will be saved to `results/result.png`.
+
+![Sample Image](results/result.png)
